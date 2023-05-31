@@ -17,7 +17,7 @@ Here's a breakdown of what the code does:
 
 In summary, this code allows the user to input a phone number and retrieves associated information (name and phone provider) for that phone number. It then saves the information in a phonebook. Additionally, it provides an option to open a PayPal link based on user input.
 
-#To use the provided code, you can follow these steps:
+# To use the provided code, you can follow these steps:
 
 1. Set up a Python environment: Make sure you have Python installed on your computer. You can download and install Python from the official Python website (https://www.python.org) if it's not already installed.
 
